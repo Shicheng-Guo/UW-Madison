@@ -2,6 +2,7 @@
 
 Timeline:
 
+* UW-Madison will retract your email after leaving the position, but you can keep it with 0 salary contract.
 * I installed Google play to install DUO but failed and then succesfully installed by Aptoide
 * UW-Madison manage system require DUO mobile same with UThealth, Xiaomei not allow to install it
 * There is a shared server in the department call DeepThought, running Scientific Linux
