@@ -2,6 +2,7 @@
 
 Timeline:
 
+* DeepThought: Linux gntcs-alit-hp1 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 15:23:27 CDT 2019 x86_64 x86_64 GNU/Linux
 * 03/05/2020: DeepThought Server don't have write permission defaultly, Ask Eric to open write permission for you.
 * 03/05/2020: Confirmed with Eric, I can put 50G data in my home directory in deepThought server
 * 03/05/2020: UW-Madison will retract your email after leaving the position, but you can keep it with 0 salary contract.
