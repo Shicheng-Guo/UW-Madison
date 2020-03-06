@@ -6,7 +6,7 @@ Timeline:
 * 03/05/2020: Confirmed with Eric, I can put 50G data in my home directory in deepThought server
 * 03/05/2020: UW-Madison will retract your email after leaving the position, but you can keep it with 0 salary contract.
 * 03/05/2020: I installed Google play to install DUO but failed and then succesfully installed by Aptoide
-* 03/05/2020: UW-Madison manage system require DUO mobile same with UThealth, Xiaomei not allow to install it
+* 03/05/2020: UW-Madison manage system require DUO mobile same with UThealth, Xiaomi not allow to install it
 * 03/05/2020: Matt come up to help me activate NetID and install DUO mobile
 * 03/04/2020: Matt email me I am in the system and tell me to creat WisCard in the afternoon
 * 03/04/2020: There is a shared server in the department call DeepThought, running Scientific Linux
